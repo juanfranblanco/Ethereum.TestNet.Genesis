@@ -1,0 +1,10 @@
+=============== Nov 25, 2015 (GMT) ===============
+05:10:29.170008 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+05:10:29.173011 db@open opening
+05:10:29.174010 journal@recovery F·1
+05:10:29.176012 journal@recovery recovering @3
+05:10:29.206031 mem@flush created L0@5 N·10 S·575B "\x1ar*..\xedj\x03,v5":"\xc5\xd2F..\x85\xa4p,v3"
+05:10:29.226045 db@janitor F·4 G·0
+05:10:29.227045 db@open done T·54.0344ms
+05:11:07.823459 db@close closing
+05:11:07.844472 db@close done T·21.0129ms

@@ -14,7 +14,7 @@ Genesis file and chain to quickly setup a testnet
 * Start geth using this params (adjust the paths based on your geth location)
 
 ```
-geth --rpc --networkid=39318 --maxpeers=0 --datadir=devChain --genesis dev_genesis.json console
+geth --rpc --networkid=39318 --maxpeers=0 --datadir=devChain --genesis genesis_dev.json --verbosity 0 console
 ````
 
 # Want to create your own, more info 

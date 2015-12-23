@@ -16,6 +16,7 @@ Genesis file and chain to quickly setup a testnet
 ```
 geth --rpc --networkid=39318 --maxpeers=0 --datadir=devChain --genesis genesis_dev.json --verbosity 0 console
 ````
-
+* Or use the bat (windows), sh (linux / osx) scripts. You willh have to chmod +x stargeth.sh first.
+ 
 # Want to create your own, more info 
 http://juan.blanco.ws/setup-your-own-tesnet-ethereum/
